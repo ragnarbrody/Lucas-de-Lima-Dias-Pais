@@ -1,0 +1,7 @@
+// configs para a extensão Code-Runner / code-runner extensions 
+
+{
+    "code-runner.executorMap": {
+        "typescript": "cls && npx sucrase-node",
+    }
+}
