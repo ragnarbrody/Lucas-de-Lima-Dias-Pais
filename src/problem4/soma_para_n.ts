@@ -30,7 +30,7 @@ function sum_to_n_b(n: number): number {
 /*
     sum_to_n_b:
 
-    Essa função é a mais rápida de executar, pois utiliza a fóruma matemática de Gauss, que eu devo confessar
+    Essa função é a mais rápida de executar , pois utiliza a fóruma matemática de Gauss, que eu devo confessar
     que, embora tenha aprendido sobre ela na faculdade, não sabia da existência dela em TypeScript/JavaScript.
     ela é mais rápida em tempos de execução pois ao invés de iterar sobre cada número individualmente, ela
     calcula diretamente a soma de todos os números até N, independente do valor de N, ela basicamente multipla
