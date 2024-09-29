@@ -71,7 +71,3 @@ For development, the application uses `ts-node-dev` for hot-reloading. The `npm 
 - If you encounter connection issues, ensure MongoDB is running and accessible
 - Check the console for any error messages during server startup or API operations
 - Verify that your .env file contains the correct MongoDB URI and port number
-
-## Thank you
-
-First of all, if you are reading this, I want to sincerely thank you for the opportunity to improve my development skills. I had to do a lot of research to get this CRUD server up and running. I encountered several challenges and issues with Express and the database, but with some extra effort and investigation, it took me around 5/6 hours to develop everything but at the end, i was able to solve the problem and finish the challenge. Once again, thank you for the chance to learn and grow through this experience!
