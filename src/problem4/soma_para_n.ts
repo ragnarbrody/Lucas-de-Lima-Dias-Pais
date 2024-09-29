@@ -1,6 +1,8 @@
 // meus comentário são em português para eu me localizar mas estou deixando sempre a tradução para inglês
 // my comments are in portuguese to help me locate myself on my code, but i'm translating everything to english
 
+// Note that i used sucrase-node to execute the file, i dont tested with tsc
+
 function sum_to_n_a(n: number): number {
     let soma = 0;
     for (let i = 1; i <= n; i++) {
